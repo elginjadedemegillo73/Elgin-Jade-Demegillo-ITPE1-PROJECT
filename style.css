@@ -1,0 +1,65 @@
+body {
+    font-family: Arial;
+    background: #2ecc71; 
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.shop {
+    text-align: center;
+}
+
+.product {
+    width: 230px;
+    background: #FAEBD7;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+.img-box {
+    position: relative;
+    background-color: lightblue;
+}
+
+.img-box img {
+    width: 100%;
+}
+
+.discount {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background: black;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.btn {
+    width: 100%;
+    margin-top: 5px;
+    padding: 8px;
+    background: black;
+    color: lightblue;
+    border: none;
+}
+.reviews {
+    text-align: left;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.reviews h4 {
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.reviews p {
+    margin: 2px;
+}
